@@ -1,0 +1,7 @@
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/ProductApplication.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/controller/ProductController.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/dto/ProductRequestDTO.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/dto/ProductResponseDTO.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/model/Product.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/repository/ProductRepository.java
+/Users/fisa435/Documents/spring_microservices/product-service-microservice/src/main/java/com/ecommerce/product/service/ProductService.java

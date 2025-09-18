@@ -1,0 +1,10 @@
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/UserApplication.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/controller/CustomerController.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/dto/AddressDTO.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/dto/CustomerRequestDTO.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/dto/CustomerResponseDTO.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/model/Address.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/model/Customer.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/model/CustomerRole.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/repository/CustomerRepository.java
+/Users/fisa435/Documents/spring_microservices/user-service-microservice/src/main/java/com/ecommerce/user/service/CustomerService.java

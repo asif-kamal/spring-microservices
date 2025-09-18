@@ -1,8 +1,6 @@
 package com.ecommerce.user.dto;
 
 import com.ecommerce.user.model.CustomerRole;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
 import lombok.Data;
 
 @Data
